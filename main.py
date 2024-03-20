@@ -1,4 +1,4 @@
-"""(Rock, Paper, Scissors game) by George
+"""(Rock, Paper, Scissors game) by George or ffg22
 Rules on how to play the game:
 1. your only moves are r or R for Rock, p or P for paper, s or S for scissors and q or Q to quit the game.
 2. and the computer chooses its own move.
